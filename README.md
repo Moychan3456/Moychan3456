@@ -10,7 +10,7 @@
 - 🧠 Strong background in **risk management & execution discipline**.  
 - 🐍 Currently learning **Python for algorithmic trading & backtesting**.  
 - 🔬 Exploring systematic strategies with multi-timeframe analysis & Sharpe ratio optimization.  
-- 🎯 Goal: Transition into a **Quantitative Analyst / Quant Trader** role where I can combine my trading experience with research-driven coding.
+- 🎯 Goal: Transition into a **Quantitative Trader** role where I can combine my trading experience with research-driven coding.
 
 ---
 

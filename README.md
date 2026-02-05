@@ -27,7 +27,7 @@ Goal: Combine real market experience + systematic analysis in a professional tra
 
 Python: pandas, numpy, matplotlib, mplfinance (trading analytics & backtesting)
 
-Trading Platforms: MT4, TradingView, Zerodha Kite
+Trading Platforms: MT5, TradingView, Zerodha Kite
 
 Data & Workflow: Jupyter, Git/GitHub, Excel
 

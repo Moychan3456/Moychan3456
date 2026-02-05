@@ -40,7 +40,7 @@ Here are my main projects (live on GitHub):
 ## 📬 Connect With Me
 - LinkedIn: [linkedin.com/ChinmoyPatir]([https://linkedin.com/](https://www.linkedin.com/in/chinmoy-patir-a24206286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - GitHub: [github.com/Moychan3456](https://github.com/Moychan3456)  
-- Email: your.email@example.com  
+- Email: chinmoypatir@gmail.com 
 
 ---
 

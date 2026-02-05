@@ -1,23 +1,83 @@
-# 👋 Hi, I'm Chinmoy Patir (Moychan3456)
+👋 Hi, I'm Chinmoy Patir
 
-🚀 **Quantitative Trader | Aspiring Quant Developer | Python Learner**
+📈 Execution-Focused Trader | Systematic Strategy Research | Python for Trading Analytics
 
----
-
-## 📌 About Me
-- 📈 5+ years of **live trading experience** in **Forex** and **NSE/BSE Options**.  
-- 💼 Successfully traded **funded accounts** with RebelsFunding & E8Funding.  
-- 🧠 Strong background in **risk management & execution discipline**.  
-- 🐍 Currently learning **Python for algorithmic trading & backtesting**.  
-- 🔬 Exploring systematic strategies with multi-timeframe analysis & Sharpe ratio optimization.  
-- 🎯 Goal: Transition into a **Quantitative Trader** role where I can combine my trading experience with research-driven coding.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-- **Languages**: Python (learning), SQL (basics)  
-- **Libraries**: pandas, numpy, matplotlib, mplfinance  
-- **Trading Platforms**: MT4, TradingView, Zerodha Kite, Interactive Brokers (basic)  
+📌 About Me
+
+5+ years of live market experience across FX, Crypto, and Indian Index Options (Nifty, BankNifty)
+
+Traded funded accounts with RebelsFunding & E8Funding
+
+Strong focus on execution quality, drawdown control, and risk discipline
+
+Use Python to analyze, backtest, and stress-test trading logic
+
+Interested in desk-adjacent trading, execution, and quantitative support roles
+
+Goal: Combine real market experience + systematic analysis in a professional trading environment
+
+
+
+---
+
+🛠️ Tools & Skills
+
+Python: pandas, numpy, matplotlib, mplfinance (trading analytics & backtesting)
+
+Trading Platforms: MT4, TradingView, Zerodha Kite
+
+Data & Workflow: Jupyter, Git/GitHub, Excel
+
+Core Strengths: execution discipline, risk management, regime awareness
+
+
+
+---
+
+📊 Projects
+
+BTC & ETH Strategy Backtesting
+
+Rule-based backtests across multiple market regimes
+
+Focus on drawdowns, expectancy, and risk-adjusted metrics
+
+
+Multi-Timeframe Forex Backtesting (4H / HTF)
+
+Tested price-action-based strategies with structured risk rules
+
+
+
+---
+
+🌱 Currently Working On
+
+Improving robustness of backtesting frameworks
+
+Better regime classification and risk metrics
+
+Cleaner research documentation and reproducibility
+
+
+
+---
+
+✨ “Market intuition is fragile without structure. Code gives it discipline.”
+
+
+---
+
+📬 Connect
+
+LinkedIn: https://www.linkedin.com/in/chinmoy-patir-a24206286
+
+GitHub: https://github.com/Moychan3456
+
+Email: chinmoypatir@gmail.com- **Trading Platforms**: MT4, TradingView, Zerodha Kite, Interactive Brokers (basic)  
 - **Other Tools**: Git/GitHub, Jupyter Notebook  
 
 ---

@@ -1,123 +1,64 @@
 👋 Hi, I'm Chinmoy Patir
 
-📈 Execution-Focused Trader | Systematic Strategy Research | Python for Trading Analytics
+📊 Operations Specialist | Trade Lifecycle & Risk Analytics
 
-
----
-
-📌 About Me
-
-5+ years of live market experience across FX, Crypto, and Indian Index Options (Nifty, BankNifty)
-
-Traded funded accounts with RebelsFunding & E8Funding
-
-Strong focus on execution quality, drawdown control, and risk discipline
-
-Use Python to analyze, backtest, and stress-test trading logic
-
-Interested in desk-adjacent trading, execution, and quantitative support roles
-
-Goal: Combine real market experience + systematic analysis in a professional trading environment
-
-
+Bridging the gap between Market Execution and Operational Risk Surveillance
 
 ---
 
-🛠️ Tools & Skills
+🚀 Professional Overview
 
-Python: pandas, numpy, matplotlib, mplfinance (trading analytics & backtesting)
-
-Trading Platforms: MT5, TradingView, Zerodha Kite
-
-Data & Workflow: Jupyter, Git/GitHub, Excel
-
-Core Strengths: execution discipline, risk management, regime awareness
-
-
+- 5+ years of hands-on market participation and trading operations analysis across FX, Crypto Derivatives, and Global Indices.
+- Focused on building execution-monitoring and exposure-control systems that simulate institutional trading-desk operational workflows.
+- Specialization in developing frameworks for trade reconciliation, execution-quality diagnostics, and real-time exposure surveillance.
+- Technical Stack: Python (Pandas, NumPy, Matplotlib), Excel, and Streamlit for operational reporting, reconciliation analytics, and risk monitoring dashboards.
+- Current Focus: Trading Operations, Execution Monitoring, Dealing Desk Infrastructure, and Market Risk Surveillance roles.
 
 ---
 
-📊 Projects
+🛠️ Technical Projects (Proof of Work)
 
-BTC & ETH Strategy Backtesting
+🛡️ Crypto Derivatives Risk & Severity Dashboard
 
-Rule-based backtests across multiple market regimes
+Operational context: Designed to simulate real-time monitoring workflows used in derivatives trading desks for exposure surveillance and risk escalation.
 
-Focus on drawdowns, expectancy, and risk-adjusted metrics
-
-
-Multi-Timeframe Forex Backtesting (4H / HTF)
-
-Tested price-action-based strategies with structured risk rules
-
-
+- Developed a real-time monitoring system tracking $1.7M+ notional exposure, margin utilization, and Value at Risk (VaR).
+- Built an automated Severity Escalation Panel detecting leverage breaches (20x+) and concentration risk.
+- Implemented stress-testing scenarios modeling portfolio impact during volatility spikes.
+- Tech: Python, Streamlit, Risk Modeling
+- Repository: [LINK_TO_REPO](https://github.com/Moychan3456/Crypto-Derivatives-Risk-Monitoring-Project-)
+- Deep Dive Article: [LINK_TO_SUBSTACK](https://chinmoyswarooppatir.substack.com/p/the-invisible-systems-that-keep-trading)
 
 ---
 
-🌱 Currently Working On
+📑 Trade Lifecycle & Execution Reconciliation Framework
 
-Improving robustness of backtesting frameworks
+Operational context: Built to simulate post-trade reconciliation and execution-quality monitoring processes used by institutional trading operations teams.
 
-Better regime classification and risk metrics
-
-Cleaner research documentation and reproducibility
-
-
-
----
-
-✨ “Market intuition is fragile without structure. Code gives it discipline.”
-
+- Designed reconciliation framework analyzing 119+ multi-asset executions across FX and metals.
+- Developed intended vs. actual fill analysis and slippage diagnostics (~1.2 pip average detection).
+- Built execution-ledger structure for PnL break identification and reporting workflows.
+- Tech: Python, Excel, Post-Trade Analytics
+- Repository: [https://github.com/Moychan3456/Trade-Lifecycle-Execution-Reconciliation-Project](https://github.com/Moychan3456/Trade-Lifecycle-Execution-Reconciliation-Project)
 
 ---
 
-📬 Connect
+🧰 Skills & Tools
 
-LinkedIn: https://www.linkedin.com/in/chinmoy-patir-a24206286
-
-GitHub: https://github.com/Moychan3456
-
-Email: chinmoypatir@gmail.com- **Trading Platforms**: MT4, TradingView, Zerodha Kite, Interactive Brokers (basic)  
-- **Other Tools**: Git/GitHub, Jupyter Notebook  
+- Operational: Trade Reconciliation, Exposure & Margin Surveillance, A-Book/B-Book Execution Logic, Trade Lifecycle Monitoring
+- Platforms: MetaTrader 5 (Advanced), MT5 Admin / Plugin Logic (Foundational), FIX Protocol (Foundational Understanding)
+- Data & Analytics: Python (Pandas, NumPy), Advanced Excel (Power Query, Pivot Tables), SQL (Basic)
 
 ---
 
-## 📊 Featured Projects
-Here are my main projects (live on GitHub):  
+✍️ Writing & Research
 
-- 🔹 [**BTC & ETH Backtesting**](https://github.com/Moychan3456/BTC_ETC) → Python-based backtesting for BTC-USD & ETH-USD strategies.  
-- 🔹 [**4H Forex Backtesting**](https://github.com/Moychan3456/4H_BACKTESTING) → Multi-timeframe strategy testing on Forex pairs.  
-
----
-
-## 🌱 Currently Learning
-- Building more robust backtesting frameworks in Python.  
-- Applying systematic strategies with proper trade management rules.  
-- Enhancing version control workflows with Git/GitHub.  
+I write about the infrastructure behind modern trading — execution systems, operational risk controls, and market structure — on my Substack:
+👉 chinmoyswarooppatir.substack.com
 
 ---
 
-## 📬 Connect With Me
-- LinkedIn: [linkedin.com/ChinmoyPatir]([https://linkedin.com/](https://www.linkedin.com/in/chinmoy-patir-a24206286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-- GitHub: [github.com/Moychan3456](https://github.com/Moychan3456)  
-- Email: chinmoypatir@gmail.com 
+📫 Connect with Me
 
----
-
-✨ _“Blending trading experience with coding discipline to build systematic edge.”_
-
-
-<!--
-**Moychan3456/Moychan3456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: linkedin.com/in/chinmoy-patir-a24206286
+- Email: chinmoypatir@gmail.com
